@@ -99,8 +99,7 @@ author:
   name             : "June Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "아무거나 **마크다운**"
-  location         : "Somewhere"
-  email            :
+  email            : "cppze95@kookmin.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
