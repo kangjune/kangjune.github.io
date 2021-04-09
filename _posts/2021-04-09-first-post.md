@@ -1,7 +1,9 @@
 ---
+layout: post
 title: "Do Things That Don't Scale"
-date: 2021-04-09 16:45:28 -0400
-categories: jekyll update
+date: 2021-04-09 16:45 :  28
+summary: 확장되지 않은 것들을 하라(폴 그레이엄)의 번역문입니다.
+categories: Startups Design
 ---
 
 원문은 하단 링크를 참조해주세요.
