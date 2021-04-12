@@ -11,6 +11,7 @@ Hi! This is June Kang, and I am a UX/UI designer based in Seoul.
 ### **Kookmin University, Seoul, Korea**
 
 **Graduation** 2019. 08
+
 **Major** Visual Communication Design
 
 ### **Goyang Foreign Language Highschool, Goyang-si, Korea**
