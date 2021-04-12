@@ -1,5 +1,5 @@
 // Typography
-$base-font-size: 16px !default;
+$base-font-size: 18px !default;
 $bold-font-weight: bold !default;
 $font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif !default;
 $line-height: 1.6 !default;
@@ -94,6 +94,8 @@ $form-field-padding-x: .5rem;
 // Code
 $pre-border-radius: 0;
 $pre-background-color: #f8f9fa;
+$pre-padding-right: 4px;
+$pre-padding-left: 4px;
 $hljs-comment: $mid-gray;
 $hljs-keyword: $dark-blue;
 $hljs-name: $dark-gray;
