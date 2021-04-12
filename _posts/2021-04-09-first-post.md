@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do Things That Don't Scale
+title: [번역] Do Things That Don't Scale
 date: 2021-04-09 16:45:28
 summary: 확장되지 않은 것들을 하라(폴 그레이엄)의 번역문입니다.
 categories: Startups Design
