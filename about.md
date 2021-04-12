@@ -6,12 +6,11 @@ tags: about
 ---
 Hi! This is June Kang, and I am a UX/UI designer based in Seoul.
 
-## 🧑‍💻**Education**
+## 🧑‍💻 **Education**
 
 ### **Kookmin University, Seoul, Korea**
 
 **Graduation** 2019. 08
-
 **Major** Visual Communication Design
 
 ### **Goyang Foreign Language Highschool, Goyang-si, Korea**
@@ -22,7 +21,7 @@ Hi! This is June Kang, and I am a UX/UI designer based in Seoul.
 
 **Minor** Japanese
 
-## 🖥**Work Experience**
+## 🖥 **Work Experience**
 
 ### **UX/UI Designer**
 
@@ -48,7 +47,7 @@ Worked as a design&marketing intern at a venture company. Experienced marketing 
 
 Worked at KOSAF student camp department as a graphic designer, making graphic posters and infographics. Also participated as an office assistant using MS office Excel.
 
-## ⛹️‍♀️**Activities**
+## ⛹️‍♀️ **Activities**
 
 ### **Global Project-based Learning Workshop**
 
@@ -74,7 +73,7 @@ Went US for language training as a student exchange program. Studied at Husson 
 
 Hosted exhibitions for the freshmen&sophomores' projects
 
-## 📒**Official grades**
+## 📒 **Official grades**
 
 ### OPIc
 
@@ -110,7 +109,7 @@ Hosted exhibitions for the freshmen&sophomores' projects
 
 **Grade** qualified
 
-## 🖋**Skills**
+## 🖋 **Skills**
 
 **Adobe** Photoshop, Illustrator, InDesign, After Effects
 
@@ -118,7 +117,7 @@ Hosted exhibitions for the freshmen&sophomores' projects
 
 **Others** Figma, Sketch, Cinema 4d, Protopie
 
-## 💬**Languages**
+## 💬 **Languages**
 
 🇰🇷**Korean** native
 
