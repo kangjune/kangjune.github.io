@@ -74,7 +74,7 @@ Hosted exhibitions for the freshmen&sophomores' projects
 
 > **Field** English speaking<br>
 **Acquisition date** 2020. 07<br>
-Grade IH
+**Grade** IH
 
 **TOEIC Speaking test**
 
