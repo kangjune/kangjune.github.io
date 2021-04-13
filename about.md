@@ -22,91 +22,91 @@ Hi! This is June Kang, and I am a UX/UI designer based in Seoul.
 **Major** English <br>
 **Minor** Japanese
 
-<br></br>
+<br>
 
 ### 🖥 **Work Experience**
 
 **UX/UI Designer**
 
-> Period 2019.06 - now
-Company DUNIT - Seoulstore
+> **Period** 2019.06 - now<br>
+**Company** DUNIT - Seoulstore<br>
 Worked as a user experience & user interface designer at seoulstore.com, a fashion platform which connects customers, brands and social media influencers. Experienced user experience design based on data.
 
 **Design & Marketing Intern**
 
-> Period 2018.06 - 2018. 08
-Company Creation Pot Inc.
+> **Period** 2018.06 - 2018. 08<br>
+**Company** Creation Pot Inc.<br>
 Worked as a design&marketing intern at a venture company. Experienced marketing design, branding, user experience and interface design. Established visual identity for a newly-launched application service.
 
 **Graphic Designer**
 
-> Period 2016.09 - 2017. 02
-Company Korea Student Aid Foundation, KOSAF
+> **Period** 2016.09 - 2017. 02<br>
+**Company** Korea Student Aid Foundation, KOSAF<br>
 Worked at KOSAF student camp department as a graphic designer, making graphic posters and infographics. Also participated as an office assistant using MS office Excel.
 
-<br></br>
+<br>
 
 ### ⛹️‍♀️ **Activities**
 
 **Global Project-based Learning Workshop**
 
-> Period 2019.02
-Host Shibaura Institute of Technology, Tokyo, Japan
+> **Period** 2019.02<br>
+**Host** Shibaura Institute of Technology, Tokyo, Japan<br>
 Went GPBL workshop as a UX/UI designer. Winner of the year
 
 **Short-term Language Training**
 
-> Period 2016.07 - 2016. 08
-Location Husson University, Maine, USA
+> **Period** 2016.07 - 2016. 08<br>
+**Location** Husson University, Maine, USA<br>
 Went US for language training as a student exchange program. Studied at Husson University. Maine.
 
 **Exhibitions of 3D printing and Drawing**
 
-> Period 2014 - 2015
-Location Kookmin University, Seoul, Korea
+> **Period** 2014 - 2015<br>
+**Location** Kookmin University, Seoul, Korea<br>
 Hosted exhibitions for the freshmen&sophomores' projects
 
-<br></br>
+<br>
 
 ### 📒 **Official grades**
 
 **OPIc**
 
-> Field English speaking
-Acquisition date 2020. 07
+> **Field** English speaking<br>
+**Acquisition date** 2020. 07<br>
 Grade IH
 
 **TOEIC Speaking test**
 
-> Field English speaking
-Acquisition date 2018. 02
-Grade Lv.7
-Score 170
+> **Field** English speaking<br>
+**Acquisition date** 2018. 02<br>
+**Grade** Lv.7<br>
+**Score** 170
 
 **Japanese Language Proficiency Test**
 
-> Field Japanese
-Acquisition date 2012
-Grade N3
+> **Field** Japanese<br>
+**Acquisition date** 2012<br>
+**Grade** N3
 
 **Advanced Placement®**
 
-> Field Psychology
-Acquisition date 2012
-Grade qualified
+> **Field** Psychology<br>
+**Acquisition date** 2012<br>
+**Grade** qualified
 
-<br></br>
+<br>
 
 ### 🖋 **Skills**
 
-**Adobe** Photoshop, Illustrator, InDesign, After Effects
-**MS Office** Powerpoint, Excel, Words
+**Adobe** Photoshop, Illustrator, InDesign, After Effects<br>
+**MS Office** Powerpoint, Excel, Words<br>
 **Others** Figma, Sketch, Cinema 4d, Protopie
 
-<br></br>
+<br>
 
 ### 💬 **Languages**
 
-🇰🇷 **Korean** native
-🇺🇸 **English** fluent
-🇯🇵 **Japanese** intermediate
+🇰🇷 **Korean** native<br>
+🇺🇸 **English** fluent<br>
+🇯🇵 **Japanese** intermediate<br>
