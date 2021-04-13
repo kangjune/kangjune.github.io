@@ -6,15 +6,15 @@ tags: about
 ---
 Hi! This is June Kang, and I am a UX/UI designer based in Seoul.
 
-## 🧑‍💻 **Education**
+### 🧑‍💻 **Education**
 
-### **Kookmin University, Seoul, Korea**
+**Kookmin University, Seoul, Korea**
 
 **Graduation** 2019. 08
 
 **Major** Visual Communication Design
 
-### **Goyang Foreign Language Highschool, Goyang-si, Korea**
+**Goyang Foreign Language Highschool, Goyang-si, Korea**
 
 **Graduation** 2014. 02
 
@@ -22,9 +22,9 @@ Hi! This is June Kang, and I am a UX/UI designer based in Seoul.
 
 **Minor** Japanese
 
-## 🖥 **Work Experience**
+### 🖥 **Work Experience**
 
-### **UX/UI Designer**
+**UX/UI Designer**
 
 **Period** 2019.06 - now
 
@@ -32,7 +32,7 @@ Hi! This is June Kang, and I am a UX/UI designer based in Seoul.
 
 Worked as a user experience & user interface designer at seoulstore.com, a fashion platform which connects customers, brands and social media influencers. Experienced user experience design based on data.
 
-### **Design & Marketing Intern**
+**Design & Marketing Intern**
 
 **Period** 2018.06 - 2018. 08
 
@@ -40,7 +40,7 @@ Worked as a user experience & user interface designer at seoulstore.com, a fashi
 
 Worked as a design&marketing intern at a venture company. Experienced marketing design, branding, user experience and interface design. Established visual identity for a newly-launched application service.
 
-### **Graphic Designer**
+**Graphic Designer**
 
 **Period** 2016.09 - 2017. 02
 
@@ -48,9 +48,9 @@ Worked as a design&marketing intern at a venture company. Experienced marketing 
 
 Worked at KOSAF student camp department as a graphic designer, making graphic posters and infographics. Also participated as an office assistant using MS office Excel.
 
-## ⛹️‍♀️ **Activities**
+### ⛹️‍♀️ **Activities**
 
-### **Global Project-based Learning Workshop**
+**Global Project-based Learning Workshop**
 
 **Period** 2019.02
 
@@ -58,7 +58,7 @@ Worked at KOSAF student camp department as a graphic designer, making graphic po
 
 Went GPBL workshop as a UX/UI designer. Winner of the year
 
-### **Short-term Language Training**
+**Short-term Language Training**
 
 **Period** 2016.07 - 2016. 08
 
@@ -66,7 +66,7 @@ Went GPBL workshop as a UX/UI designer. Winner of the year
 
 Went US for language training as a student exchange program. Studied at Husson University. Maine.
 
-### **Exhibitions of 3D printing and Drawing**
+**Exhibitions of 3D printing and Drawing**
 
 **Period** 2014 - 2015
 
@@ -74,9 +74,9 @@ Went US for language training as a student exchange program. Studied at Husson 
 
 Hosted exhibitions for the freshmen&sophomores' projects
 
-## 📒 **Official grades**
+### 📒 **Official grades**
 
-### OPIc
+**OPIc**
 
 **Field** English speaking
 
@@ -84,7 +84,7 @@ Hosted exhibitions for the freshmen&sophomores' projects
 
 **Grade** IH
 
-### **TOEIC Speaking test**
+**TOEIC Speaking test**
 
 **Field** English speaking
 
@@ -94,7 +94,7 @@ Hosted exhibitions for the freshmen&sophomores' projects
 
 **Score** 170
 
-### **Japanese Language Proficiency Test**
+**Japanese Language Proficiency Test**
 
 **Field** Japanese
 
@@ -102,7 +102,7 @@ Hosted exhibitions for the freshmen&sophomores' projects
 
 **Grade** N3
 
-### **Advanced Placement®**
+**Advanced Placement®**
 
 **Field** Psychology
 
@@ -110,7 +110,7 @@ Hosted exhibitions for the freshmen&sophomores' projects
 
 **Grade** qualified
 
-## 🖋 **Skills**
+### 🖋 **Skills**
 
 **Adobe** Photoshop, Illustrator, InDesign, After Effects
 
@@ -118,7 +118,7 @@ Hosted exhibitions for the freshmen&sophomores' projects
 
 **Others** Figma, Sketch, Cinema 4d, Protopie
 
-## 💬 **Languages**
+### 💬 **Languages**
 
 🇰🇷**Korean** native
 
