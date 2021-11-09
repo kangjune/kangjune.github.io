@@ -13,9 +13,10 @@ layout: default
   {% if page.update_date %}
     <span class="post-meta">{{ site.text.post.updated | default: "Updated" }}: {{ page.update_date | date: site.date_format }}</span><br>
   {% endif %}
-  
   </span>
 </div>
+
+<br></br>
 
 <article class="post-content">
   {{ content }}
