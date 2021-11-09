@@ -30,13 +30,13 @@ Hi! This is June Kang, and I am a UX/UI designer based in Seoul.
 
 > **Period** 2021.09 - now<br>
 **Company** SSG.COM<br>
-Worked as a user experience & user interface designer at [SSG.COM](http://www.ssg.com).
+Worked as a user experience & user interface designer at [SSG.COM](http://www.ssg.com){:target="_blank"}.
 
 **UX/UI Designer**
 
 > **Period** 2019.06 - 2021.08<br>
 **Company** DUNIT - Seoulstore<br>
-Worked as a junior user experience & user interface designer at [seoulstore.com](https://www.seoulstore.com), a fashion platform which connects customers, brands and social media influencers. Experienced user experience design based on data.
+Worked as a junior user experience & user interface designer at [seoulstore.com](https://www.seoulstore.com){:target="_blank"}, a fashion platform which connects customers, brands and social media influencers. Experienced user experience design based on data.
 
 **Design & Marketing Intern**
 
